@@ -120,7 +120,7 @@ On my channel you'll find complete walkthroughs of this project and other enterp
 
 # 👨‍💻 Author
 
-## Edwin Ayimde Tamia
+## Edwin Tam
 
 **AI Automation Engineer | Workflow Automation Specialist**
 
@@ -131,7 +131,7 @@ I build enterprise AI systems using n8n, Make, Zapier, OpenAI, Supabase, Postgre
 # 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tam-edwin-4a6804416
-- 🌍 Portfolio:https://www.linkedin.com/in/tam-edwin-4a6804416?
+- 🌍 Portfolio:https:
 - 📺 YouTube: https://youtube.com/@edwinaisolutions
 
 ---
